@@ -1,7 +1,7 @@
 # Microsoft365-Powershell
 some powershell scripts
 
-to-do: 
-Projektbeschreibung
-Vorraussetzungen
-Installation Packages
+to-do: Projektbeschreibung
+
+# Grant-TeamPoliciesToStudents
+to-do: Vorraussetzungen, Installation Packages
