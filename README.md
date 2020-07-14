@@ -1,3 +1,7 @@
 # Microsoft365-Powershell
-some powershell scripts 
-to-do: Projektbeschreibung
+some powershell scripts
+
+to-do: 
+Projektbeschreibung
+Vorraussetzungen
+Installation Packages
